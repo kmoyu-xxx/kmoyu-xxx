@@ -1,4 +1,4 @@
-## Hi 👋  I am KongMoyu 🌱 I live on GitHub, Good Night! 💤
+# Hi 👋  I am KongMoyu 🌱 I live on GitHub, Good Night! 💤
 
 <!--
 **KongMoyu/KongMoyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
