@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
-# ⚒️ Tech Stack
+# 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=c,go,rust,python,arduino,elixir,nodejs,php,react,obsidian,vue,mysql,md,java,swift,git,bootstrap,html,css,js,c,vscode,cpp,latex,fastapi,raspberrypi,pycharm,pytorch,tensorflow,opencv)](https://skillicons.dev)
 
 
