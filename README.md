@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 
 # ⚒️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=ros,ai,gcp,python,arduino,elixir,nodejs,php,react,obsidian,aws,mysql,md,java,swift,git,bootstrap,html,css,js,c,vscode,cpp,latex,fastapi,raspberrypi,pycharm,pytorch,tensorflow,opencv)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ros,ai,gcp,python,arduino,elixir,nodejs,php,react,obsidian,aws,mysql,md,java,swift,git,bootstrap,html,css,js,c,vscode,cpp,latex,fastapi,raspberrypi,pycharm,pytorch,tensorflow,opencv&theme=light)](https://skillicons.dev)
 
 
