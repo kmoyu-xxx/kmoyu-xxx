@@ -1,8 +1,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&letterSpacing=8px&duration=1100&color=F70000&center=true&vCenter=true&random=true&width=40&height=70&lines=%F0%9F%92%9C;%F0%9F%A9%B7;%F0%9F%A7%A1;%F0%9F%92%9B;%F0%9F%92%9A;%F0%9F%A9%B5;%F0%9F%A4%8D)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&letterSpacing=0.3px&duration=4400&color=DED3DF&center=true&vCenter=true&width=435&lines=I+am+KongMoyu+%F0%9F%8C%B1+;I+live+on+GitHub+%F0%9F%8F%A0)](https://git.io/typing-svg)
+
+
+<!--👋🏻
 <h1 align="center">
   
-  <a href="https://www.youtube.com/watch?v=jKs-ZSXaMq8">Hi 👋</a>  I am KongMoyu 🌱 I live on <a href="https://github.com">GitHub 🏠</a>
+  <a href="https://www.youtube.com/watch?v=jKs-ZSXaMq8">Hi 👋🏻</a>  I am KongMoyu 🌱 I live on <a href="https://github.com">GitHub 🏠</a>
 
 <!--
 **KongMoyu/KongMoyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
