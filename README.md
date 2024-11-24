@@ -24,10 +24,11 @@ Here are some ideas to get you started:
 ⚙️🔨🔭
 💡💻🏠
 -->
+-----
 
 </h1>
 
-------
+
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
