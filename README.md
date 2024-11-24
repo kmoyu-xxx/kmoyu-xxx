@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 </h1>
 
-<a href="https://www.python.org"><h1 align="center">⚒️ My Tech Tools</h1></a>
+<h1 align="center"><a href="https://www.python.org">My Tech Tools</a></h1>
 
 [![My Skills](https://skillicons.dev/icons?i=cloudflare,gcp,php,elixir,md,obsidian,latex,mysql,aws,vscode,github,git,swift,html,css,js,bootstrap,c,cpp,fastapi,arduino,ros,raspberrypi,unity,python,pycharm,matlab,pytorch,tensorflow,opencv&theme=light)](https://skillicons.dev)
 
