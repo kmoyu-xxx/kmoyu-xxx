@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 </h1>
 
-<p style="text-align:center;">Hi 👋🏻</a>  I am KongMoyu 🌱 I live on <a href="https://github.com">GitHub 🏠</p>
+<p style="text-align:center;">Hi 👋🏻  I am KongMoyu 🌱 I live on GitHub 🏠</p>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
