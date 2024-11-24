@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=elixir,md,obsidian,latex,php,mysql,aws,stackoverflow,vscode,githubactions,github,git,swift,html,css,js,ts,c,cpp,fastapi,arduino,ros,raspberrypi,unity,python,pycharm,matlab,pytorch,tensorflow,opencv)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=md,obsidian,latex,vue,php,mysql,aws,stackoverflow,vscode,githubactions,github,git,swift,html,css,js,ts,c,cpp,fastapi,arduino,ros,raspberrypi,unity,python,pycharm,matlab,pytorch,tensorflow,opencv)](https://skillicons.dev)
 
 ------
 
