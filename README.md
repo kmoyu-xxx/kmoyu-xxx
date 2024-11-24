@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 
 </h1>
 
-<h1 style="text-align:center;">H3 that is center aligned</h1>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
