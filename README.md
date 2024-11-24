@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&letterSpacing=8px&duration=1100&color=F70000&center=true&vCenter=true&random=true&width=40&height=70&lines=%F0%9F%92%9C;%F0%9F%A9%B7;%F0%9F%A7%A1;%F0%9F%92%9B;%F0%9F%92%9A;%F0%9F%A9%B5;%F0%9F%A4%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&letterSpacing=8px&duration=1100&color=F70000&center=true&vCenter=true&random=true&width=40&height=70&lines=%F0%9F%92%9C;%F0%9F%A9%B7;%F0%9F%A7%A1;%F0%9F%92%9B;%F0%9F%92%9A;%F0%9F%A9%B5;%F0%9F%A4%8D)](https://git.io/typing-svg) am KongMoyu 
 
 
 <h1 align="center">
