@@ -1,4 +1,4 @@
-
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+I+am+Jerome+Palayoor!)
 <h1 align="center">
   <a href="https://www.youtube.com/watch?v=jKs-ZSXaMq8">Hi 👋</a>  I am KongMoyu 🌱 I live on <a href="https://github.com">GitHub 🏠</a>
 
