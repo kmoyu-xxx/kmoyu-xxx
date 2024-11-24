@@ -1,5 +1,5 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+still+alive)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&letterSpacing=8px&duration=970&color=F70000&center=true&vCenter=true&random=true&height=70&lines=%F0%9F%92%9C;%F0%9F%A9%B7;%F0%9F%A7%A1;%F0%9F%92%9B;%F0%9F%92%9A;%F0%9F%A9%B5;%F0%9F%A4%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+still+alive)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&letterSpacing=8px&duration=970&color=F70000&center=true&vCenter=true&random=true&width=200&height=70&lines=%F0%9F%92%9C;%F0%9F%A9%B7;%F0%9F%A7%A1;%F0%9F%92%9B;%F0%9F%92%9A;%F0%9F%A9%B5;%F0%9F%A4%8D)](https://git.io/typing-svg)
 <h1 align="center">
   
   <a href="https://www.youtube.com/watch?v=jKs-ZSXaMq8">Hi 👋</a>  I am KongMoyu 🌱 I live on <a href="https://github.com">GitHub 🏠</a>
