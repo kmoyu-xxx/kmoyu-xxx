@@ -36,7 +36,9 @@ Here are some ideas to get you started:
 
 <h1 align="center">
  <a href="https://linux.do">⚒️ My Tech Tools</a>
--------
+
+------
+
 </h1>
 
 ------
