@@ -1,6 +1,6 @@
 
 
-<h1 align="center">
+<h2 align="center">
  
 ---
  
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 -->
 ---
 
-</h1>
+</h2>
 
 
 
