@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 </h1>
 
-<p style="text-align:center;">Hi 👋🏻  I am KongMoyu 🌱 I live on GitHub 🏠</p>
+<h1 style="text-align:center;">H3 that is center aligned</h1>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
