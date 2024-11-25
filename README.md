@@ -4,7 +4,7 @@
  
 ---
  
- <a target="_blank" href="https://linux.do" title="Linux Do">Hi 👋🏻</a>  I am KongMoyu 🌱 I live on <a taget="_blank" href="https://github.com" title="GitHub">GitHub 🏠</a>
+ <a target="_blank" href="https://linux.do" title="Linux Do">Hi 👋🏻</a>  I am KongMoyu 🌱 I live on <a target="_blank" href="https://github.com" title="GitHub">GitHub 🏠</a>
 
 <!--
 **KongMoyu/KongMoyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
