@@ -4,7 +4,7 @@
  
 ---
  
- <a href="https://linux.do" title="Linux Do">Hi 👋🏻</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">  I am KMY-06 🌱 I live on <a href="https://github.com" title="GitHub">GitHub 🏠</a>
+ <a href="https://linux.do" title="Linux Do">Hi </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">  I am KMY-06 🌱 I live on <a href="https://github.com" title="GitHub">GitHub 🏠</a>
 
 <!--
 **KongMoyu/KongMoyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
