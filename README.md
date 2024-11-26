@@ -4,8 +4,8 @@
  
 ---
  
- <a href="https://linux.do" title="Linux Do">Hi </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">  I am KMY-06 🌱 I live on <a href="https://github.com" title="GitHub">GitHub 🏠</a><iframe src="https://giphy.com/embed/ZgTRcH0SbiLV1wolnR" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/BareTreeMedia-btm-tod-bare-tree-media-ZgTRcH0SbiLV1wolnR">via GIPHY</a></p>
-
+ <a href="https://linux.do" title="Linux Do">Hi </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">  I am KMY-06 🌱 I live on <a href="https://github.com" title="GitHub">GitHub 🏠</a>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTc1YXlvb2xwNDRmczlua2hhazh1dWliNmZsbndycXFrcDVyYnVhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZgTRcH0SbiLV1wolnR/giphy.webp" width="25">
 <!--
 **KongMoyu/KongMoyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
