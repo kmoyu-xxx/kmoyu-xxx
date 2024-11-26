@@ -8,7 +8,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 <!--
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTc1YXlvb2xwNDRmczlua2hhazh1dWliNmZsbndycXFrcDVyYnVhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZgTRcH0SbiLV1wolnR/giphy.webp" width="25">
 <!--
-**KongMoyu/KongMoyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 <a href="https://linux.do" title="Linux Do">
