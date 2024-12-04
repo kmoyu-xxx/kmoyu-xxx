@@ -25,7 +25,7 @@ When you click 'run workflow' if it shows E.g 'remote: Permission to kmy-06/kmy-
 
 -------
 
-[![My Skills](https://skillicons.dev/icons?i=apple,md,obsidian,latex,vue,nodejs,aws,php,mysql,react,vscode,githubactions,github,git,swift,html,css,js,ts,c,cpp,fastapi,arduino,ros,raspberrypi,unity,python,pycharm,matlab,pytorch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,md,obsidian,latex,vue,nodejs,aws,php,mysql,react,vscode,githubactions,github,git,swift,html,css,js,ts,c,cpp,go,fastapi,arduino,raspberrypi,unity,python,pycharm,matlab,pytorch)](https://skillicons.dev)
 
 <!--
 Add this between 'pytorch' and ')' for light mode icons :P ->    &theme=light
