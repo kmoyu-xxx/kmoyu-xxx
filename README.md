@@ -32,5 +32,4 @@ When you click 'run workflow' if it shows E.g 'remote: Permission to kmy-06/kmy-
 <!--
 Add this between 'pytorch' and ')' for light mode icons :P ->    &theme=light
 -->
--->
 
