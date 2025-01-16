@@ -1,4 +1,4 @@
-<!--
+
 
 <h1 align="center"> -> Can change to "left" or "right" 
 
@@ -6,8 +6,7 @@
 
 </h1> 
  
--->
-          
+   
 
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
