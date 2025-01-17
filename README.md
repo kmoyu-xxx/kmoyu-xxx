@@ -2,7 +2,7 @@
 
 <h1 align="center"> <!-- Can change to "left" or "right" -->
 
-  Hi ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23" height="25"> I am <a href="http://kmy.software">KMY-06</a> 🌱 I live on <a href="https://github.com" title="GitHub"> GitHub 🏠 </a>
+  Hi ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23" height="25"> I am <a href="https://kmy.software">KMY-06</a> 🌱 I live on <a href="https://github.com" title="GitHub"> GitHub 🏠 </a>
 
 </h1> 
  
