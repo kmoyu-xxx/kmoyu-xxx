@@ -11,7 +11,7 @@
   
   ![Image](https://github.com/user-attachments/assets/93c21132-c003-464c-94d2-1bbb4eae1ee3)
   
-  But, I wish to live on the <a href="#">Moon</a> one day . . .
+  But, I want to live on the <a href="#">Moon</a> one day . . .
 
 </h1>  
 
