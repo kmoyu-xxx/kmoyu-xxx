@@ -31,7 +31,7 @@ When you click 'run workflow' if it shows E.g 'remote: Permission to kmy-06/kmy-
 
 <h1 align="center">
   
-  I don't know why I am interested in manufacturing ...
+  I am interested in manufacturing Q 😵‍💫
   
 </h1>
 
