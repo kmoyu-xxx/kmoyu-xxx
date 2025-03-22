@@ -6,14 +6,13 @@
 
 </h1> 
  
-<h1 align="center"> <!-- Can change to "left" or "right" -->
-
+<h1 align="center"> 
   
-  ![Image](https://github.com/user-attachments/assets/93c21132-c003-464c-94d2-1bbb4eae1ee3)
-  
+  <img src="https://github.com/user-attachments/assets/93c21132-c003-464c-94d2-1bbb4eae1ee3" alt="Image" style="width:400px; height:auto;">
+  <br>
   I want to live on the <a href="#">Moon</a> 🧐
-
-</h1>  
+  
+</h1>
 
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
