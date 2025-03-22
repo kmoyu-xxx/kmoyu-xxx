@@ -8,9 +8,11 @@
  
 <h1 align="center"> 
   
-  <img src="https://github.com/user-attachments/assets/93c21132-c003-464c-94d2-1bbb4eae1ee3" alt="Image" style="width:543px; height:auto;">
+  <img src="https://github.com/user-attachments/assets/93c21132-c003-464c-94d2-1bbb4eae1ee3" alt="Image" style="width:443px; height:auto;">
   <br>
+  
   I want to live on the <a href="#">Moon</a> 🧐
+  <br>
   
 </h1>
 
