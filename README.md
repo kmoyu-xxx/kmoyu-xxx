@@ -35,11 +35,10 @@ When you click 'run workflow' if it shows E.g 'remote: Permission to kmy-06/kmy-
 </h1>
 
 
-<h2 align="center">
-  
- 😆 8+1 > 8+2 
-  
-</h2>
+$$😆 8+1 > 8+2$$
+
+</h1>
+
 
 
 
