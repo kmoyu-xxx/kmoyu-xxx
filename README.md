@@ -11,7 +11,7 @@
   <img src="https://github.com/user-attachments/assets/93c21132-c003-464c-94d2-1bbb4eae1ee3" alt="Image" style="width:519px; height:auto;">
   <br>
   
-  I want to live on the <a href="#">Moon</a> 🧐
+  I want to live on the <a href="#">Moon</a> 🚀
   <br>
   
 </h1>
