@@ -16,10 +16,7 @@ $$\text{Every battle is won before it's ever fought - Sun Tzu}$$
 </h2>
 
 <h3 align="center"> 
-  <!--
-  <img src="https://github.com/user-attachments/assets/93c21132-c003-464c-94d2-1bbb4eae1ee3" alt="Image" style="width:519px; height:auto;">
-  <br>
-  -->
+
 
   
 
