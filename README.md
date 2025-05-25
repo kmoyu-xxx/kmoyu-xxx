@@ -9,7 +9,7 @@
   <br>
 
   
-$$\text{Every battle is won before it's ever fought - Sun Tzu}$$
+$$\text{.}$$
 
  <h2 align="">
   
