@@ -26,9 +26,8 @@ $$\text{Every battle is won before it's ever fought - Sun Tzu}$$
   
   ⚡️
   
-  <br>
-  <br>
-  
+
+
   2080: How can we have a ThermalNukeGrid Reactor in Singapore ? 🌋
   <br>
   
