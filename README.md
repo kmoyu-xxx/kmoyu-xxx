@@ -28,7 +28,7 @@ $$\text{Every battle is won before it's ever fought - Sun Tzu}$$
   
 
 
-  2080: How can we have a ThermalNukeGrid Reactor in Singapore ? 🌋
+  2080: How can we have a ThermalNukeGrid Reactor on Mars ? 🌋
   <br>
   
 </h3>
