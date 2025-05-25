@@ -5,12 +5,19 @@
   Hi ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23" height="25"> I am <a href="#">KMY-06</a> 🌱 I live on <a href="https://github.com" title="GitHub"> GitHub</a> ⛰️
 
 </h1> 
+
+$$\text{Every battle is won before it's ever fought - Sun Tzu}$$
+
  
 <h3 align="center"> 
   <!--
   <img src="https://github.com/user-attachments/assets/93c21132-c003-464c-94d2-1bbb4eae1ee3" alt="Image" style="width:519px; height:auto;">
   <br>
   -->
+
+  
+
+  
   ⚡️
   
   <br>
