@@ -9,6 +9,6 @@
 - Python (Good): Flask, FastAPI
 - SQL (Beginner)
 - C (In queue)
-- C++ (Beginner)
+- C++ (Beginner) 🥲
 - Git (Beginner): Version Control
 - GoLang (In queue)
