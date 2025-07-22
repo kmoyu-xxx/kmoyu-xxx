@@ -14,7 +14,7 @@
 
 ---
 
-### My skills:
+### Programming Tools:
 
 - HTML (Enough)
 - CSS (Enough)
