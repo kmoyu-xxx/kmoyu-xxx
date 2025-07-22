@@ -1,4 +1,4 @@
-# K.Moyu 🧩 - 'I know nothing, so I use DeepSeek'
+# K.Moyu 🧩 - 'I know very little, so I use DeepSeek'
 
 ##### Hmm, so are you telling me that:
 
