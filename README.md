@@ -10,7 +10,7 @@
 
 ##### Ok, do it:
 
-> It's done. (This part is just for NULL purposes, to show real senarios where the industrial system wastes no time)
+> It's done. (This part is just for NULL purposes, to show real scenarios where the industrial system wastes no time)
 
 ---
 
