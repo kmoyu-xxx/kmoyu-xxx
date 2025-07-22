@@ -1,4 +1,4 @@
-# K.Moyu 🧩
+# K.Moyu 🧩 - 'I know nothing, so I use DeepSeek'
 
 ##### Hmm, so are you telling me that:
 
