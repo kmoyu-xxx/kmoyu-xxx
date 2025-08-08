@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Wisdom-comes%20from%20war%20with%20yourself-white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Wisdom-comes%20from%20war%20with%20oneself-white" /></a>
   <h2>
     <a href="https://kmoyu-xxx.github.io"><code>~/.kmoyu</code></a> - 404 
     <br>
