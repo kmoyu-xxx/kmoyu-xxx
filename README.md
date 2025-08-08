@@ -1,9 +1,11 @@
 <div align="center">
-  <!-- <a href="#"><img src="https://img.shields.io/badge/Wisdom-comes%20from%20war%20with%20yourself-white" /></a> -->
-  <!-- <h1><a href="https://kmoyu.github.io"><code>~/.kmoyu</code></a></h1> -->
+  <a href="#"><img src="https://img.shields.io/badge/Wisdom-comes%20from%20war%20with%20yourself-white" /></a>
+  <h2>
+    <a href="https://kmoyu-xxx.github.io"><code>~/.kmoyu</code></a> - 404 
+    <br>
+    <br>
+  </h2>
 </div>
-
----
 
 ### Programming Tools:
 
